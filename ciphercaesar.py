@@ -1,7 +1,7 @@
 alfavit_EU =  'ABCDEFGHIJKLMNOPQRSTUVWXYZABCDEFGHIJKLMNOPQRSTUVWXYZ123456789123456789'
 alfavit_UA = 'АБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯАБВГҐДЕЄЖЗИІЇЙКЛМНОПРСТУФХЦЧШЩЬЮЯ123456789123456789'
-smeshenie = int(input('Ключ шифровання: '))
-message = input("Текст для шифровання: ").upper()
+smeshenie = int(input('Ключ шифрування: '))
+message = input("Текст для шифрування: ").upper()
 itog = ''
 lang = input('Виберіть мову UA/EU: ')
 if lang == 'UA':
