@@ -1,1 +1,6 @@
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDbKj8WzCXKdjEkT4ETAIlAptn2czkRepySDgeuPpmi+22cJVnANAIw2/ZnFHSi5I6zdr7YfdmPTvKTd58ikEg4/Nr+YmlmZcG8K05+tAAZd6/F7KbqT6lSQL7MDwd/QAxElbacE4eQgdf9mX7Ie/586Je6aT1uXqeohOln4WexJHr9dmSNRV1bnhCMejDvCDmsYA7anDEPIbhfcMCuD5PI4fI4vTJdaTpfI43AA6J9kjWRm3fQ/NFlXj3OCFuKjUggYjJ11Z49F6NYhmzzqKMa9/7/YGZAHQeedsqPyC/QzhpEQZtlO5udWEq+636cbDYQnJ45SP/BsiUfvMCPYfQ7ib2faVkzd5Zx3xfu4HaCajR7TnVFDBqGrqiZHl9I9c4GtX7S/62Qj9YDCd9asAk1baDIH6uObmA4gJ8w9Esver8nPZN7Gk0rAI4kni565JsQ6s6PRuZeuHyfz+PxILPLh51TXfoE0pFk1nAMymla3FQhx+KploYuggSqmGqETR0= tr1say@tr1say-VirtualBox
+
+
+
+
+*       *      *       *     *      echo "Hello world" >> /home/tr1say/GG/mylog.log
